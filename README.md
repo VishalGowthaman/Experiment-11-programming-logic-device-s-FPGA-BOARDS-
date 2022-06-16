@@ -3,8 +3,6 @@
 
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
-### THEORY 
-
 ### Procedure 
 Start the Quartus II Programmer.
 ![](https://github.com/VishalGowthaman/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/WhatsApp%20Image%202022-06-16%20at%204.06.22%20PM.jpeg)
